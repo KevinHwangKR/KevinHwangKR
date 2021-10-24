@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Gyujin (Kevin) Hwang. I am majoring in Computer Science at University of Washington
 - 📫 How to reach me: kevinhkr@uw.edu
